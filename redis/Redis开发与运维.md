@@ -11,3 +11,5 @@
 九、Redis 集群方案与实现  
 十、Redis 与 Memcached 的差异  
 十一、参考文献  
+
+[Redis内部数据结构](http://zhangtielei.com/posts/server.html)
